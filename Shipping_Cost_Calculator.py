@@ -1,5 +1,5 @@
 # Here is a new update by ToqWatts
-# Here is another update by ToqWatts
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
